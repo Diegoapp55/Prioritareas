@@ -1,4 +1,5 @@
-run = "cowsay Configure me!"
+# run = "Que carajo está pasando xD!"
+run = "python3 main.py"
 
 # The primary language of the repl. There can be others, though!
 language = "python3"
